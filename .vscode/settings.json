@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./crates/nuka-core/Cargo.toml"
+    ]
+}
